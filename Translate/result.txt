@@ -1,0 +1,17 @@
+Welcome, brewer.
+
+You're about to take your first steps into the world of
+homebrewing - a world packed with creativity, discovery, and,
+most of all, excellent beers!
+
+Brewing is an art with endless possibilities, where true mastery
+can take a lifetime. Yet at its heart it's wonderfully simple:
+anyone can pick up a brew pot, throw a few ingredients
+together, and create a tasty, thirst-quenching beer to share
+with friends and family.
+
+So that's exactly what you should do first. Let's get brewing!
+{'translations': [{'detected_source_language': 'EN', 'text': 'ようこそ、ブルワーさん。\n\nあなたは今、自家製ビールの世界に足を踏み入れようとしています。\nこの世界には創造性、発見、そして何よりも素晴らしいビールが詰まっています。\nそして何より、素晴らしいビールが待 
+っています\n\n醸造は無限の可能性を秘めた芸術であり、真のマスターは一生かかるかもしれません。\nは一生かかるかもしれません。しかし、その基本はとてもシンプルです。\n誰でも醸造用ポットを手に取り、いくつかの材料を混ぜ合わせれば\n喉の渇きを癒すおいしいビールをつくり、友 
+人や家族と一緒に飲むことができるのです。\n友人や家族と共有できるのです。\n\nだから、まずはやってみることです。さっそく醸造してみましょう。'}]}
+PS D:\Python>
